@@ -1,3 +1,4 @@
+#labels Featured
 =INTRODUCTION=
 
 This perl script allows to setup an BGP adjacency with a BGP peer, monitor the messages and updates received from that peer, and to send out updates from a predefined set of NLRIs/attributes. BGP session and message handling is done by Net::BGP.
